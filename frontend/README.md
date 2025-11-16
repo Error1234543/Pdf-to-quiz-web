@@ -1,0 +1,1 @@
+Frontend for AI Quiz Generator. Deploy on Netlify.
