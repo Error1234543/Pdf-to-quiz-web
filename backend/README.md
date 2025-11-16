@@ -1,0 +1,1 @@
+Backend for PDF → Quiz AI. Set GEMINI_API_KEY in Render Env Variables.
